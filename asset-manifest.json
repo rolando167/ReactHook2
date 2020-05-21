@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/ReactHook2/static/js/main.acce4de4.chunk.js",
-    "main.js.map": "/ReactHook2/static/js/main.acce4de4.chunk.js.map",
+    "main.js": "/ReactHook2/static/js/main.d36376b5.chunk.js",
+    "main.js.map": "/ReactHook2/static/js/main.d36376b5.chunk.js.map",
     "runtime-main.js": "/ReactHook2/static/js/runtime-main.6ac11016.js",
     "runtime-main.js.map": "/ReactHook2/static/js/runtime-main.6ac11016.js.map",
     "static/js/2.bb466d49.chunk.js": "/ReactHook2/static/js/2.bb466d49.chunk.js",
     "static/js/2.bb466d49.chunk.js.map": "/ReactHook2/static/js/2.bb466d49.chunk.js.map",
     "index.html": "/ReactHook2/index.html",
-    "precache-manifest.4692ef2ba2fe09a742d295292f2b668d.js": "/ReactHook2/precache-manifest.4692ef2ba2fe09a742d295292f2b668d.js",
+    "precache-manifest.b72856ea1b9be8b37ef25090d4ee318c.js": "/ReactHook2/precache-manifest.b72856ea1b9be8b37ef25090d4ee318c.js",
     "service-worker.js": "/ReactHook2/service-worker.js",
     "static/js/2.bb466d49.chunk.js.LICENSE.txt": "/ReactHook2/static/js/2.bb466d49.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6ac11016.js",
     "static/js/2.bb466d49.chunk.js",
-    "static/js/main.acce4de4.chunk.js"
+    "static/js/main.d36376b5.chunk.js"
   ]
 }
